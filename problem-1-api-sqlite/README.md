@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Problem 1 - API Data Retrieval and SQLite
 
 # Overview
@@ -42,3 +43,6 @@ Publication Year: 1970
 
 Books stored in database:
 (1, 'Fantastic Mr Fox', 'Roald Dahl', 1970)
+=======
+
+>>>>>>> eed1638f4cc54f7b09d7a185872f241ed55b6338
