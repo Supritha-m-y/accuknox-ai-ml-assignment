@@ -31,11 +31,7 @@ The `users` table contains:
 4. Insert the CSV records into the database.
 5. Display the stored records.
 
-## How to Run
-
-From the `problem-3-csv-sqlite` directory:
-
-python3 problem3.py
+## output
 
 Users stored in database:
 (1, 'John Smith', 'john.smith@example.com')
