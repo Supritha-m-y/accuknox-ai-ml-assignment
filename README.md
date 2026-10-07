@@ -1,2 +1,2 @@
-# accuknox-ai-ml-assignment
+# ai-ml-assignment
 AI/ML technical assignment
